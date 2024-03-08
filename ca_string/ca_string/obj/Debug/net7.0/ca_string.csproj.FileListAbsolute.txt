@@ -1,0 +1,15 @@
+/Users/matheusleal/Documents/dev/estagio_target/ca_string/ca_string/bin/Debug/net7.0/ca_string
+/Users/matheusleal/Documents/dev/estagio_target/ca_string/ca_string/bin/Debug/net7.0/ca_string.deps.json
+/Users/matheusleal/Documents/dev/estagio_target/ca_string/ca_string/bin/Debug/net7.0/ca_string.runtimeconfig.json
+/Users/matheusleal/Documents/dev/estagio_target/ca_string/ca_string/bin/Debug/net7.0/ca_string.dll
+/Users/matheusleal/Documents/dev/estagio_target/ca_string/ca_string/bin/Debug/net7.0/ca_string.pdb
+/Users/matheusleal/Documents/dev/estagio_target/ca_string/ca_string/obj/Debug/net7.0/ca_string.csproj.AssemblyReference.cache
+/Users/matheusleal/Documents/dev/estagio_target/ca_string/ca_string/obj/Debug/net7.0/ca_string.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusleal/Documents/dev/estagio_target/ca_string/ca_string/obj/Debug/net7.0/ca_string.AssemblyInfoInputs.cache
+/Users/matheusleal/Documents/dev/estagio_target/ca_string/ca_string/obj/Debug/net7.0/ca_string.AssemblyInfo.cs
+/Users/matheusleal/Documents/dev/estagio_target/ca_string/ca_string/obj/Debug/net7.0/ca_string.csproj.CoreCompileInputs.cache
+/Users/matheusleal/Documents/dev/estagio_target/ca_string/ca_string/obj/Debug/net7.0/ca_string.dll
+/Users/matheusleal/Documents/dev/estagio_target/ca_string/ca_string/obj/Debug/net7.0/refint/ca_string.dll
+/Users/matheusleal/Documents/dev/estagio_target/ca_string/ca_string/obj/Debug/net7.0/ca_string.pdb
+/Users/matheusleal/Documents/dev/estagio_target/ca_string/ca_string/obj/Debug/net7.0/ca_string.genruntimeconfig.cache
+/Users/matheusleal/Documents/dev/estagio_target/ca_string/ca_string/obj/Debug/net7.0/ref/ca_string.dll

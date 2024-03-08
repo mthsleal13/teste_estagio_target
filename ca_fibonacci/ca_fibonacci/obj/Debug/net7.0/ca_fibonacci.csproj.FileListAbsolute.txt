@@ -1,0 +1,15 @@
+/Users/matheusleal/Projects/ca_fibonacci/ca_fibonacci/bin/Debug/net7.0/ca_fibonacci
+/Users/matheusleal/Projects/ca_fibonacci/ca_fibonacci/bin/Debug/net7.0/ca_fibonacci.deps.json
+/Users/matheusleal/Projects/ca_fibonacci/ca_fibonacci/bin/Debug/net7.0/ca_fibonacci.runtimeconfig.json
+/Users/matheusleal/Projects/ca_fibonacci/ca_fibonacci/bin/Debug/net7.0/ca_fibonacci.dll
+/Users/matheusleal/Projects/ca_fibonacci/ca_fibonacci/bin/Debug/net7.0/ca_fibonacci.pdb
+/Users/matheusleal/Projects/ca_fibonacci/ca_fibonacci/obj/Debug/net7.0/ca_fibonacci.csproj.AssemblyReference.cache
+/Users/matheusleal/Projects/ca_fibonacci/ca_fibonacci/obj/Debug/net7.0/ca_fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusleal/Projects/ca_fibonacci/ca_fibonacci/obj/Debug/net7.0/ca_fibonacci.AssemblyInfoInputs.cache
+/Users/matheusleal/Projects/ca_fibonacci/ca_fibonacci/obj/Debug/net7.0/ca_fibonacci.AssemblyInfo.cs
+/Users/matheusleal/Projects/ca_fibonacci/ca_fibonacci/obj/Debug/net7.0/ca_fibonacci.csproj.CoreCompileInputs.cache
+/Users/matheusleal/Projects/ca_fibonacci/ca_fibonacci/obj/Debug/net7.0/ca_fibonacci.dll
+/Users/matheusleal/Projects/ca_fibonacci/ca_fibonacci/obj/Debug/net7.0/refint/ca_fibonacci.dll
+/Users/matheusleal/Projects/ca_fibonacci/ca_fibonacci/obj/Debug/net7.0/ca_fibonacci.pdb
+/Users/matheusleal/Projects/ca_fibonacci/ca_fibonacci/obj/Debug/net7.0/ca_fibonacci.genruntimeconfig.cache
+/Users/matheusleal/Projects/ca_fibonacci/ca_fibonacci/obj/Debug/net7.0/ref/ca_fibonacci.dll

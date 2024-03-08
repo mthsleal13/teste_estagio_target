@@ -1,0 +1,15 @@
+/Users/matheusleal/Documents/dev/estagio_target/ca_soma/ca_soma/bin/Debug/net7.0/ca_soma
+/Users/matheusleal/Documents/dev/estagio_target/ca_soma/ca_soma/bin/Debug/net7.0/ca_soma.deps.json
+/Users/matheusleal/Documents/dev/estagio_target/ca_soma/ca_soma/bin/Debug/net7.0/ca_soma.runtimeconfig.json
+/Users/matheusleal/Documents/dev/estagio_target/ca_soma/ca_soma/bin/Debug/net7.0/ca_soma.dll
+/Users/matheusleal/Documents/dev/estagio_target/ca_soma/ca_soma/bin/Debug/net7.0/ca_soma.pdb
+/Users/matheusleal/Documents/dev/estagio_target/ca_soma/ca_soma/obj/Debug/net7.0/ca_soma.csproj.AssemblyReference.cache
+/Users/matheusleal/Documents/dev/estagio_target/ca_soma/ca_soma/obj/Debug/net7.0/ca_soma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusleal/Documents/dev/estagio_target/ca_soma/ca_soma/obj/Debug/net7.0/ca_soma.AssemblyInfoInputs.cache
+/Users/matheusleal/Documents/dev/estagio_target/ca_soma/ca_soma/obj/Debug/net7.0/ca_soma.AssemblyInfo.cs
+/Users/matheusleal/Documents/dev/estagio_target/ca_soma/ca_soma/obj/Debug/net7.0/ca_soma.csproj.CoreCompileInputs.cache
+/Users/matheusleal/Documents/dev/estagio_target/ca_soma/ca_soma/obj/Debug/net7.0/ca_soma.dll
+/Users/matheusleal/Documents/dev/estagio_target/ca_soma/ca_soma/obj/Debug/net7.0/refint/ca_soma.dll
+/Users/matheusleal/Documents/dev/estagio_target/ca_soma/ca_soma/obj/Debug/net7.0/ca_soma.pdb
+/Users/matheusleal/Documents/dev/estagio_target/ca_soma/ca_soma/obj/Debug/net7.0/ca_soma.genruntimeconfig.cache
+/Users/matheusleal/Documents/dev/estagio_target/ca_soma/ca_soma/obj/Debug/net7.0/ref/ca_soma.dll
