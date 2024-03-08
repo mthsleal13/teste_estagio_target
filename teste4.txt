@@ -1,0 +1,21 @@
+Passo 1:
+
+-> ligue primeiro interruptor
+-> aguardar a lâmpada aquecer
+-> desligue o primeiro interruptor
+-> ligue o segundo interruptor
+
+Possibilidades:
+
+-> se a lâmpada estiver apagada e fia, o terceiro interruptor controla essa lâmpada
+-> se a lâmpada estiver apagada e quente, o segundo interruptor controla essa lâmpada
+-> se a lâmpada estiver acesa, o segundo interruptor controla essa lâmpada
+
+Passo 2:
+
+-> usando as mesmas observações do Passo 1, você pode definir qual interruptor ligara cada lâmpada
+
+Conclusão:
+
+-> usando esse metodo, com apenas 2 idas à sala de lâmpada, pode-se determinar qual
+interruptor controla cada lâmpada
